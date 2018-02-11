@@ -1,0 +1,4 @@
+首先进行登录，
+然后检查是不是有SSH key的存在。一个是cd到~/.ssh，一个是ls
+然后是生成ssh，ssh -keygen -t rsa -C "2217594536@qq.com"
+
